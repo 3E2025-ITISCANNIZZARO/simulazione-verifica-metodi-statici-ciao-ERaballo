@@ -11,7 +11,7 @@ public class Main {
      */
     public Main() {};
 
-    static final String cognome=""; // assegnare alla variabile il proprio cognome
+    static final String cognome="Raballo"; // assegnare alla variabile il proprio cognome
     static final String nome=""; // assegnare alla variabile il proprio nome
     static final String currentDate="19/11/24";
     static final String classe="3DI";
